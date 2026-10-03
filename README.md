@@ -6,6 +6,10 @@ Un pequeño programa de consola en C# para poner en práctica conceptos básicos
 - Condicionales simples (`if-else`).
 - Bucles (`for`).
 
+## Vista Previa de Ejecución
+
+![Captura de ejecución del programa](assets/ejecucion.png)
+
 ## Instrucciones para correrlo
 
 Asegúrate de tener instalado el [SDK de .NET](https://dotnet.microsoft.com/download). 
