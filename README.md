@@ -8,7 +8,7 @@ Un pequeño programa de consola en C# para poner en práctica conceptos básicos
 
 ## Vista Previa de Ejecución
 
-![Captura de ejecución del programa](assets/ejecucion.png)
+![Captura de ejecución del programa](assets/ejecucion.jpg)
 
 ## Instrucciones para correrlo
 
