@@ -19,4 +19,4 @@ Abre una terminal en la carpeta del proyecto y ejecuta:
 dotnet run
 ```
 
-*(Nota: La documentación técnica detallada será agregada posteriormente).*
+
